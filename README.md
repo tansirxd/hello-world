@@ -1,3 +1,5 @@
 # hello-world
 
-main branch tansir second modify
+HI THE WORLD， I AM FIRST ENTER THERE THAT HOPE EVERYONE CAN TAKE CAER OF ME, THANKS !!!
+
+MAIN BRANCH TANSIR SECOND MODIFY !!!
